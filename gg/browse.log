@@ -1,0 +1,8 @@
+========== Ioncube_Decoder 1.1.41  LogFile ==========
+
+=========> S t a g e  0  -  Getting RawData (UnBase64-Raw.bin)
+
+Opening D:\php50\htdocs\glype-1.4.15\browse.php
+-> ERROR: This is not a ionCube Encode Php File.
+   Extentend Error Info: IonCube Start Pattern: '<?php //0' not found!
+
